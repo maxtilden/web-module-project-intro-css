@@ -35,7 +35,7 @@ blockquote, q {
         padding:0;
         margin:0;
         max-width:100%;
-        border:1px solid grey;
+        
 
     }
 html{
@@ -112,4 +112,21 @@ nav{
     color:white;
     text-align:center;
     font-size:2rem;
+}
+.bottom{
+    width:25%;
+    margin:5% auto;
+
+}
+.bold{
+    font-weight:bold;
+}
+.landscape{
+    background-image: url('assets/footer_img.jpg');
+    height:35vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+footer{
+    background-color:#F9E7DC;
 }
